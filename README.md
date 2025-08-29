@@ -129,7 +129,7 @@ Pickles provides lower discounts for key safety features compared to market aver
 
 Since these discounts are much lower than the market average, safer homeowners may be drawn to competitors offering better incentives. This puts the company at risk of losing profitable, low-risk customers and ultimately weakens its market position.
 
-![Discount Misalignment Chart](https://github.com/annievu22/Homeowner_Pricing_Analysis_Project/blob/main/Housing%20Pricing%20Project%20-%20Key%20Findings/Finding%201.png)
+![Discount Misalignment Chart](https://github.com/annievu22/Homeowner_Pricing_Analysis_Project/blob/main/Homeowner%20Pricing%20Project%20-%20Key%20Findings/Finding%201.png)
 
 
 ## 5.2. Loss Ratio Improvement from Safety Feature Upgrades
@@ -142,7 +142,7 @@ Loss ratios are consistently lower for homes with upgraded safety features, demo
 
 The consistent performance of upgraded features shows a strong link between safety improvements and reduced claims. Offering more competitive discounts would reward low-risk behavior, promote retention, and improve pricing accuracy.
 
-![Credibility Loss Ratios](https://github.com/annievu22/Homeowner_Pricing_Analysis_Project/blob/main/Housing%20Pricing%20Project%20-%20Key%20Findings/Finding%202.png)
+![Credibility Loss Ratios](https://github.com/annievu22/Homeowner_Pricing_Analysis_Project/blob/main/Homeowner%20Pricing%20Project%20-%20Key%20Findings/Finding%202.png)
 
 ## 5.3. Discount Levels Below Break-even Thresholds**
 
@@ -154,7 +154,7 @@ The current discounts fall far short of the break-even levels needed to match th
 
 By offering discounts far below break-even levels, the company ends up overpricing its safest customers. Aligning discounts with actual risk reduction would support customer acquisition while maintaining overall profitability.
 
-![Base Rate Offset](https://github.com/annievu22/Homeowner_Pricing_Analysis_Project/blob/main/Housing%20Pricing%20Project%20-%20Key%20Findings/Finding%203.png)
+![Base Rate Offset](https://github.com/annievu22/Homeowner_Pricing_Analysis_Project/blob/main/Homeowner%20Pricing%20Project%20-%20Key%20Findings/Finding%203.png)
 
 ## 5.4. Final Discount Recommendations:
 
@@ -178,7 +178,7 @@ By offering discounts far below break-even levels, the company ends up overprici
 * **Base Rate Offset – 1.099 (9.9% Increase):**  
   Ensures revenue neutrality across the portfolio while enabling the implementation of updated risk-aligned discounts.
 
-![Final Discount Summary](https://github.com/yourusername/Homeowner_Pricing_Project/blob/main/Final_Discount_Recommendations.png)
+![Final Discount Summary](https://github.com/annievu22/Homeowner_Pricing_Analysis_Project/blob/main/Homeowner%20Pricing%20Project%20-%20Key%20Findings/Final%20Results.png)
 
 These discount factors were carefully chosen to attract profitable customer segments, reduce churn, and maintain pricing sustainability while remaining competitive in the homeowner insurance space.
 
